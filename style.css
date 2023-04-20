@@ -9,3 +9,7 @@ body::before {
     width: 50%;
   }
 }
+
+a img {
+  width: 45px;
+}
